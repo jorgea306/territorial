@@ -24,6 +24,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
 }
 
+.justificado {
+  text-align: justify;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -551,7 +555,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: #fffaf3;
+  background: #ffffff;
 }
 .about .content {
   padding: 0 80px;
@@ -1201,6 +1205,7 @@ section {
 .chefs2 .member .social a {
   transition: color 0.3s;
   color: #7a7368;
+
 }
 .chefs2 .member .social a:hover {
   color: #2a76b8;
@@ -1486,4 +1491,12 @@ section {
 
 .text {
   font-family: 'Montserrat', sans-serif;
+
 }
+
+
+.text2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+
